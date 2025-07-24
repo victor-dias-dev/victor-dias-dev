@@ -4,14 +4,8 @@
 
 <div align="center">
   <h1>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&height=70&lines=🎩+Dev!;🚀+Software+Developer;✨+VibeCode+Professional;☕+Coffee+to+Code+Converter;🌙+Night+Owl+Programmer;🔥+Turning+Bugs+into+Features;💻+5%2B+Years+of+Magic;🎯+From+Basic+to+Brilliant!;🧠+Self-Taught+Coding+Wizard;🎮+Movies+Music+Gaming+Life;🌊+Riding+the+Wave+of+Tech;⚡+Redis+Faster+Than+Cats;🤔+Still+Learning+Human+Things;🎪+Making+Databases+Purr;🌟+18.1M+Lines+Written;🔧+CI%2FCD+Like+Cat+Reflexes;💡+Innovation+is+My+Game;💀+Debug+Till+I+Die;🩸+My+Code+Bleeds+Excellence;⚰️+Killed+More+Bugs+Than+Raid;🔪+Slicing+Through+Legacy+Code;💊+Addicted+to+Clean+Architecture;🧟+Zombie+Mode:+Coding+at+3AM;💉+Injecting+Dependencies+Daily;🔥+Burning+Midnight+Oil+Since+2014;💣+Exploding+Expectations+Daily" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&height=70&lines=🎩+Dev!;🚀+Software+Developer;✨+VibeCode+Professional;☕+Coffee+to+Code+Converter;🌙+Night+Owl+Programmer;🔥+Turning+Bugs+into+Features;💻+5%2B+Years+of+Magic;🎯+From+Basic+to+Brilliant!;🧠+Self-Taught+Coding+Wizard;🎮+Movies+Music+Gaming+Life;🌊+Riding+the+Wave+of+Tech;⚡+Redis+Faster+Than+Cats;🤔+Still+Learning+Human+Things;🎪+Making+Databases+Purr;🌟+18.1M+Lines+Written;💡+Innovation+is+My+Game;💀+Debug+Till+I+Die;🩸+My+Code+Bleeds+Excellence;⚰️+Killed+More+Bugs+Than+Raid;🔪+Slicing+Through+Legacy+Code;💊+Addicted+to+Clean+Architecture;🧟+Zombie+Mode:+Coding+at+3AM;💉+Injecting+Dependencies+Daily;🔥+Burning+Midnight+Oil+Since+2014;💣+Exploding+Expectations+Daily" alt="Typing SVG" />
 </h1>
-</div>
-
-<div align="center">
-  <img src="https://emojis.slackmojis.com/emojis/images/1643509834/36299/black-cat.gif?1643509834" width="100" height="120" />
-  <br>
-  <sup><em>The legendary black cat that's actually a developer! 🐾</em></sup>
 </div>
 
 <br>
@@ -30,7 +24,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=victor-dias-dev&bg_color=0d1117&color=58a6ff&line=f85149&point=58a6ff&area_color=0d1117&area=true&hide_border=true&custom_title=The%20Cat%20Developer's%20Contribution%20Graph" width="800" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=victor-dias-dev&bg_color=0d1117&color=58a6ff&line=f85149&point=58a6ff&area_color=0d1117&area=true&hide_border=true&custom_title=The%20Super%20Developer's%20Contribution%20Graph" width="800" />
 </div>
 
 ---
