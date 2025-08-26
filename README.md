@@ -14,7 +14,7 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=victor-dias-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9" width="400" />
+        <img src="https://github-readme-stats.vercel.app/api?username=victor-dias-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9count_private=true" width="400" />
       </td>
       <td>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=victor-dias-dev&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=f85149&currStreakLabel=58a6ff" width="400" />
@@ -24,7 +24,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=victor-dias-dev&bg_color=0d1117&color=58a6ff&line=f85149&point=58a6ff&area_color=0d1117&area=true&hide_border=true&custom_title=The%20Super%20Developer's%20Contribution%20Graph" width="800" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=victor-dias-dev&bg_color=0d1117&color=58a6ff&line=f85149&point=58a6ff&area_color=0d1117&area=true&hide_border=true&custom_title=The%20Super%20Developer%27s%20Contribution%20Graph" width="95%" />
 </div>
 
 ---
