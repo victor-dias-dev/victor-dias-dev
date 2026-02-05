@@ -1,14 +1,143 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Dias's%20Universe&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Victor%20Dias&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
 </div>
 
 <div align="center">
   <h1>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&height=70&lines=🎩+Dev!;🚀+Software+Developer;✨+VibeCode+Professional;☕+Coffee+to+Code+Converter;🌙+Night+Owl+Programmer;🔥+Turning+Bugs+into+Features;💻+5%2B+Years+of+Magic;🎯+From+Basic+to+Brilliant!;🧠+Self-Taught+Coding+Wizard;🎮+Movies+Music+Gaming+Life;🌊+Riding+the+Wave+of+Tech;⚡+Redis+Faster+Than+Cats;🤔+Still+Learning+Human+Things;🎪+Making+Databases+Purr;🌟+18.1M+Lines+Written;💡+Innovation+is+My+Game;💀+Debug+Till+I+Die;🩸+My+Code+Bleeds+Excellence;⚰️+Killed+More+Bugs+Than+Raid;🔪+Slicing+Through+Legacy+Code;💊+Addicted+to+Clean+Architecture;🧟+Zombie+Mode:+Coding+at+3AM;💉+Injecting+Dependencies+Daily;🔥+Burning+Midnight+Oil+Since+2014;💣+Exploding+Expectations+Daily" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&height=70&lines=Hey!+I'm+Victor+👋;Backend+Software+Engineer;5%2B+Years+Building+Scalable+Systems;TypeScript+%7C+Node.js+%7C+Go+Expert;Cloud+Native+Developer;Open+to+Remote+Opportunities+🌎" alt="Typing SVG" />
 </h1>
 </div>
 
+<div align="center">
+  <a href="mailto:victorlirio4@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/victordomingos-dev/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/victor-dias-dev">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
+
 <br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=victor-dias-dev&color=blueviolet&style=for-the-badge&label=Profile+Views" />
+  <img src="https://img.shields.io/github/followers/victor-dias-dev?style=for-the-badge&color=blue&labelColor=black" />
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a **Backend Software Engineer** from Brazil with **5+ years of experience** building scalable, high-performance systems. I specialize in designing microservices architectures, optimizing databases, and creating robust APIs that handle millions of requests.
+
+🔹 **Currently:** Mid-Level Software Developer at [Wave Technologies](https://www.linkedin.com/company/wave-technologies-oficial/) (Remote)  
+🔹 **Focus:** Backend Development, System Architecture, Cloud Infrastructure  
+🔹 **Languages:** Fluent in Portuguese, Intermediate English  
+🔹 **Location:** São Paulo, Brazil | Open to **Remote Opportunities Worldwide** 🌎
+
+---
+
+## 💼 Professional Experience
+
+### 🚀 **Mid-Level Software Developer** | Wave Technologies
+**Feb 2025 - Present | Remote**
+
+```typescript
+const achievements = {
+  scale: "Scaled backend system to support 60,000+ active users",
+  performance: "Reduced API response times by 40% through optimization",
+  devops: "Implemented CI/CD pipelines improving deployment frequency",
+  stack: ["NestJS", "TypeScript", "PostgreSQL", "Redis", "RabbitMQ"],
+};
+```
+
+**Key Contributions:**
+- Architected and implemented high-throughput microservices handling 10K+ requests/minute
+- Designed caching strategies with Redis reducing database load by 60%
+- Led code reviews and mentored junior developers on best practices
+
+---
+
+### ⚡ **Backend Developer** | Digiage
+**Apr 2024 - Feb 2025 | Hybrid**
+
+```java
+// Enterprise Integration & API Management
+String[] expertise = {"Java", "WSO2", "Microservices", "API Gateway"};
+int projectsDelivered = 12;
+```
+
+**Key Contributions:**
+- Developed and maintained enterprise microservices architecture
+- Managed WSO2 API Gateway handling 1M+ daily API calls
+- Created comprehensive API documentation improving developer onboarding
+
+---
+
+### 📱 **Mobile Developer** | Rede AoProfessor
+**Apr 2024 - Feb 2025 | Remote**
+
+```dart
+// Cross-platform Mobile Development
+final apps = ['AoProfessor', 'Sinpropar', 'Apeoesp'];
+final framework = 'Flutter';
+final usersImpacted = '50,000+ educators';
+```
+
+**Key Contributions:**
+- Built and deployed 3 production Flutter applications
+- Implemented offline-first architecture for unreliable network conditions
+- Integrated RESTful APIs with state management solutions
+
+---
+
+### 🏗️ **Software Engineer** | Storaze
+**Aug 2023 - Feb 2024 | Hybrid**
+
+**Key Contributions:**
+- Led development of task management system using Flutter and SQL
+- Built contract management backend with Java Spring Boot
+- Optimized PostgreSQL queries reducing response times by 50%
+
+---
+
+### 🌐 **Full Stack Developer** | EMP - Sistemas e Serviços
+**Jan 2022 - Aug 2023 | Hybrid**
+
+**Key Contributions:**
+- Developed real-time applications with Node.js, React, and Vue.js
+- Designed and implemented MongoDB and PostgreSQL database schemas
+- Created internal tools improving team productivity by 30%
+
+---
+
+## 🛠️ Technical Skills
+
+<div align="center">
+
+### Backend & Languages
+<img src="https://skillicons.dev/icons?i=go,nodejs,python,typescript,java,cpp&theme=dark" />
+
+### Cloud & Infrastructure
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,linux&theme=dark" />
+
+### Databases & Messaging
+<img src="https://skillicons.dev/icons?i=postgresql,redis,mongodb,rabbitmq,kafka,elasticsearch&theme=dark" />
+
+### Frontend & Mobile
+<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind,html,css&theme=dark" />
+
+### Tools & DevOps
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,figma&theme=dark" />
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
   <table>
@@ -21,190 +150,12 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=victor-dias-dev&bg_color=0d1117&color=58a6ff&line=f85149&point=58a6ff&area_color=0d1117&area=true&hide_border=true&custom_title=The%20Super%20Developer%27s%20Contribution%20Graph" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=victor-dias-dev&bg_color=0d1117&color=58a6ff&line=f85149&point=58a6ff&area_color=0d1117&area=true&hide_border=true&custom_title=Contribution%20Graph" width="95%" />
 </div>
 
 ---
 
-## 💼 Professional Journey
-
-### 🔥 **Mid-Level Software Developer** | [Wave Technologies](https://www.linkedin.com/company/wave-technologies-oficial/)
-**February 2025 - Present | Campinas, São Paulo (Remote)**
-
-```typescript
-interface WaveExperience {
-  role: "Backend Developer";
-  stack: ["NestJS", "TypeScript", "PostgreSQL", "Redis", "RabbitMQ"];
-  achievements: [
-    "Scaled system to 60k+ users",
-    "Reduced API response times by 40%",
-    "Implemented CI/CD pipelines"
-  ];
-  dailyRoutine: {
-    morning: "☕ Coffee + Code Reviews";
-    afternoon: "🚀 Feature Development";
-    evening: "🧪 Testing + Debugging";
-    night: "📚 Learning New Tech";
-  };
-}
-```
----
-
-### 💻 **Backend Developer** | [Digiage](https://www.linkedin.com/company/digiage-it/posts/?feedView=all)
-**April 2024 - February 2025 | Campinas, São Paulo (Hybrid)**
-
-```javascript
-public class DigiageExperience {
-    private final String[] skills = {"Java", "WSO2", "Microservices", "API Management"};
-    private int projectsCompleted = 12;
-    private boolean coffeeAddiction = true;
-    
-    public void mainResponsibilities() {
-        developMicroservices();
-        documentAPIs();
-        manageWSO2Platform();
-        drinkCoffee();
-    }
-    
-    private void drinkCoffee() {
-        while(true) {
-            System.out.println("Debugging... need more coffee!");
-        }
-    }
-}
-```
----
-
-### 💻 **Mobile Developer** | [Rede AoProfessor](https://www.linkedin.com/company/aoprofessor/about/)
-**April 2024 - February 2025 | Campinas, São Paulo (Remote)**
-
-```javascript
-class MobileDevLife {
-  final String framework = 'Flutter';
-  final List<String> apps = ['AoProfessor', 'Sinpropar', 'Apeoesp'];
-  
-  void dailyRoutine() {
-    try {
-      buildFeatures();
-      fixBugs();
-      drinkCoffee();
-    } catch (deadline) {
-      workOvertime();
-    }
-  }
-  
-  String get motivation => "Helping teachers access better services!";
-}
-```
----
-
-### 💻 **Software Engineer** | [Storaze](https://www.linkedin.com/company/storazetec/)
-**August 2023 - February 2024 | Campinas, São Paulo (Hybrid)**
-
-```javascript
-class StorazeAdventure:
-    def __init__(self):
-        self.projects = {
-            'task_manager': 'Flutter/SQL',
-            'contract_system': 'Java/Spring',
-            'social_project': 'Java/MySQL'
-        }
-        self.skills_gained = [
-            'Project Leadership',
-            'API Development',
-            'Database Optimization'
-        ]
-    
-    def reflect(self):
-        return ("Grew from junior to mid-level developer\n"
-                "Learned to balance features with tech debt\n"
-                "Discovered my love for clean architecture")
-```
----
-
-### 💻 **Web Developer** | [EMP - Sistemas e Serviços](https://www.linkedin.com/company/emp-sistemas-e-servi%C3%A7os/)
-**Januery 2022 - August 2023 | Campinas, São Paulo (Hybrid)**
-
-```javascript
-const empJourney = {
-  techStack: ['Node.js', 'React', 'Vue', 'MongoDB', 'PostgreSQL'],
-  keyProjects: {
-    faqSystem: {
-      tech: 'Node/PostgreSQL/Vue',
-      impact: 'Improved employee onboarding'
-    },
-    taskManager: {
-      tech: 'Node/MongoDB/React',
-      impact: 'Enhanced team productivity'
-    }
-  },
-  lessonsLearned: [
-    'Importance of clean code',
-    'Value of documentation',
-    'Power of real-time features'
-  ]
-};
-```
-
-<div align="center">
-
-## 🛠️ Tech Arsenal
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=go,nodejs,python,typescript,java,cpp&theme=dark" />
-  <br>
-  <sup><em>Backend Languages - My weapons of choice</em></sup>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,linux&theme=dark" />
-  <br>
-  <sup><em>Cloud & Infrastructure - Where dreams go to die</em></sup>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=postgresql,redis,mongodb,rabbitmq,kafka,elasticsearch&theme=dark" />
-  <br>
-  <sup><em>Databases & Messaging - My data overlords</em></sup>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind,html,css&theme=dark" />
-  <br>
-  <sup><em>Frontend & Mobile - Making things less ugly</em></sup>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,figma&theme=dark" />
-  <br>
-  <sup><em>Tools & DevOps - My survival kit</em></sup>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/🤖_MCP_Server-FF6B6B?style=for-the-badge&logo=protocol&logoColor=white" />
-  <img src="https://img.shields.io/badge/✨_VibeCode-4ECDC4?style=for-the-badge&logo=sparkles&logoColor=white" />
-  <img src="https://img.shields.io/badge/🧠_AI_Integration-45B7D1?style=for-the-badge&logo=brain&logoColor=white" />
-  <br>
-  <sup><em>Specialized Skills - The forbidden arts</em></sup>
-</div>
-
-</div>
-
----
-
-<div align="center">
-
-## 📊 GitHub Stats
+## 📈 Coding Stats
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-6%2C498%20hrs%2013%20mins-blue)
@@ -283,87 +234,58 @@ HTML                     1 repo              ░░░░░░░░░░░�
  Last Updated on 23/07/2025 01:33:46 UTC
 <!--END_SECTION:waka-->
 
+---
+
+## 🎯 What I Bring to the Table
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/🏗️_Architecture-Expert-58a6ff?style=for-the-badge" />
+        <br><br>
+        <strong>System Design</strong>
+        <br>
+        <em>Microservices, Event-Driven, DDD</em>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/⚡_Performance-Focused-f85149?style=for-the-badge" />
+        <br><br>
+        <strong>Optimization</strong>
+        <br>
+        <em>Caching, Query Tuning, Profiling</em>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/🚀_Delivery-Driven-4ECDC4?style=for-the-badge" />
+        <br><br>
+        <strong>Results</strong>
+        <br>
+        <em>CI/CD, Testing, Documentation</em>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-<div align="center">
+## 🤝 Let's Connect!
 
-## 🎮 Developer Dark Facts
+I'm actively looking for **remote opportunities** with US-based companies. I bring:
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/💀_Debugging-Since_2021-FF6B6B?style=for-the-badge" />
-      <br><br>
-      <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100" />
-      <br>
-      <em>From Basic to Burnout!</em>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/🧟_Self_Taught-Zombie_Mode-4ECDC4?style=for-the-badge" />
-      <br><br>
-      <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100" />
-      <br>
-      <em>Learning never stops... neither do I!</em>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/🐱_Cat_Envy-They_Have_9_Lives-45B7D1?style=for-the-badge" />
-      <br><br>
-      <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="100" />
-      <br>
-      <em>I only have 1 life and 0 sleep!</em>
-    </td>
-  </tr>
-</table>
-
-<details>
-<summary>🪦 Click for dark developer secrets...</summary>
-
-```typescript
-const darkSecrets = {
-🕒 Focus Hours | `02:47 AM, headphones on, debugging demons out`,
-📈 Productivity Peak | `Tuesdays. Don’t ask why, just caffeine.,
-💡 Latest Rabbit Hole | `Kubernetes configs and crying in YAML`,
-💥 Debug Superpower | `Breaking things that "should just work"`,
-🐘 Favorite Punching Bag | `PostgreSQL. Sorry, buddy.`,
-🔒 Identity Crisis | `Keycloak + OAuth2 = mild panic`,
-⚙️ Hobby Project | `Spinning up yet another microservice`,
-😵‍💫 Side Effect | `Dreaming in JSON`,
-🧠 Coping Mechanism | `Explaining async to other devs (and myself)`,
-☕ Energy Source | `Cold brew and sarcastic commit messages`,
-};
-```
-
-</details>
-
-</div>
-
----
-
-<div align="center">
-
-## 🌐 Connect with the Suffering Developer
+✅ **5+ years** of production experience  
+✅ **Strong communication** skills in English  
+✅ **Overlap** with US time zones (flexible schedule)  
+✅ **Self-motivated** remote work experience  
+✅ **Passion** for clean code and best practices  
 
 <div align="center">
   <a href="mailto:victorlirio4@gmail.com">
-    <img src="https://img.shields.io/badge/📧_Email-Send_Help-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/📧_Let's_Talk-victorlirio4@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <br><br>
   <a href="https://www.linkedin.com/in/victordomingos-dev/">
-    <img src="https://img.shields.io/badge/💼_LinkedIn-Professional_Facade-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/victor-dias-dev">
-    <img src="https://img.shields.io/badge/🐙_GitHub-Code_Cemetery-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=victor-dias-dev&color=blueviolet&style=for-the-badge&label=Profile+Views" />
-  <img src="https://img.shields.io/github/followers/victor-dias-dev?style=for-the-badge&color=blue&labelColor=black" />
-</div>
-
 </div>
 
 ---
@@ -371,9 +293,9 @@ const darkSecrets = {
 <div align="center">
   <h3>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-    &nbsp; I hope we see each other soon ❤️
+    Thanks for visiting! Let's build something amazing together.
     <br>
-    <sup>&copy; 2021-present <a href="https://github.com/victor-dias-dev/" target="_blank">Dias</a> | Still alive... barely</sup>
+    <sup>&copy; 2021-present <a href="https://github.com/victor-dias-dev/" target="_blank">Victor Dias</a></sup>
   </h3>
 </div>
 
