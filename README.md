@@ -160,20 +160,17 @@ final usersImpacted = '50,000+ educators';
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 February 2026 - To: 13 February 2026
+From: 07 February 2026 - To: 14 February 2026
 
-Total Time: 10 hrs 42 mins
+Total Time: 7 hrs 49 mins
 
-TypeScript   6 hrs 16 mins   ██████████████▓░░░░░░░░░░   58.24 %
-Markdown     1 hr 36 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.86 %
-Bash         1 hr 34 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.55 %
-JSON         39 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.09 %
-YAML         16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
-SQL          13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
-TOML         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
-Other        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+TypeScript   5 hrs 27 mins   █████████████████▒░░░░░░░   69.76 %
+Markdown     1 hr 28 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.83 %
+JSON         21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
+Bash         18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
+SQL          11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
+YAML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
