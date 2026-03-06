@@ -160,15 +160,13 @@ final usersImpacted = '50,000+ educators';
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 February 2026 - To: 04 March 2026
+From: 26 February 2026 - To: 05 March 2026
 
-Total Time: 6 hrs 7 mins
+Total Time: 3 hrs 39 mins
 
-TypeScript   4 hrs 53 mins         ████████████████████░░░░░   79.92 %
-Bash         36 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.85 %
-SQL          27 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 %
-JSON         10 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
-Other        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+TypeScript   3 hrs 4 mins          █████████████████████░░░░   84.14 %
+SQL          22 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.20 %
+Bash         12 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.66 %
 ```
 
 <!--END_SECTION:waka-->
